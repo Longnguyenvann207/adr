@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A sleek, intuitive calculator with real-time expressions, scientific functions, and calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
